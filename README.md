@@ -37,12 +37,7 @@ I'm into DevSecOps, Infrastructure as Code, and making sure things don't break i
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## Recent Wins
 
-- Cut cloud costs by 25% with automated resource monitoring
-- Reduced deployment time by 75% through IaC automation
-- Brought AWS compliance score above 90% using Security Hub
-- Slashed container vulnerabilities by 40% with security scanning in CI/CD
 
 ## Certifications
 
@@ -55,7 +50,4 @@ I'm into DevSecOps, Infrastructure as Code, and making sure things don't break i
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sanjid.salam.p)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjid.salam.p@gmail.com)
 
-## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=getsan4u&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=getsan4u&layout=compact&theme=radical&hide_border=true)
